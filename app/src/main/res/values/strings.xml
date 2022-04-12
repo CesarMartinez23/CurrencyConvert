@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currency\nConverter</string>
+    <string name="app_question_change_euro_value">Has the value of the euro changed?</string>
+    <string name="app_button_yes">Yes</string>
+    <string name="app_button_no">No</string>
+    <string name="app_txt_money_converter">Dollar to Euro</string>
+    <string name="app_txt_money_converter_result">Result</string>
+    <string name="app_btn_convert">Convert</string>
+    <string name="app_hint_editText_number_dollar">$ 0.00</string>
+    <string name="app_hint_editText_number_euro">€ 0.00</string>
+    <string name="app_txt_change_euro_value">Change Euro Value</string>
+    <string name="app_button_change_euro_value">Change</string>
+    <string name="app_txt_actuality_euro_value">Actuality Euro Value</string>
+</resources>
